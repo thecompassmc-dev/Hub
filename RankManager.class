@@ -1,0 +1,5 @@
+package com.thecompassmc.bukkit.Game
+
+public class RankManager {
+
+}
